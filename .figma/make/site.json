@@ -1,0 +1,13 @@
+{
+  "description": "Facilitates secure card processing and alternative payments for businesses across Africa, enabling growth and scalability with a modern, engaging interface.",
+  "icons": {
+    "icon": "/favicon.png"
+  },
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
