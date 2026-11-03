@@ -11,8 +11,6 @@ import {
   BarChart3,
   Code,
   Headphones,
-  RefreshCw,
-  FileText,
   TrendingUp,
   CheckCircle2,
   ArrowRight,
@@ -67,8 +65,6 @@ export function ServicesPage() {
 
   const additionalServices: { icon: LucideIcon; title: string; description: string }[] = [
     { icon: Globe,      title: 'Payment Gateway',    description: 'Seamlessly integrate secure payment processing into your website or application with our robust API and pre-built plugins.' },
-    { icon: RefreshCw,  title: 'Recurring Billing',  description: 'Manage subscriptions and recurring payments with ease. Automated billing, flexible schedules, and customer management tools.' },
-    { icon: FileText,   title: 'Invoice Management', description: 'Create, send, and track invoices automatically. Reduce payment delays and improve cash flow with our integrated invoicing system.' },
     { icon: TrendingUp, title: 'Multi-Currency',      description: 'Accept payments in 135+ currencies with real-time exchange rates and automatic currency conversion for a truly global experience.' },
     { icon: Shield,     title: 'Fraud Prevention',   description: 'Enterprise-grade security with advanced fraud detection, PCI DSS compliance, and multi-layer authentication to protect your business.' },
     { icon: BarChart3,  title: 'Analytics & Reporting', description: 'Comprehensive dashboards and detailed reporting tools to understand your payment trends, customer behavior, and optimize revenue.' },

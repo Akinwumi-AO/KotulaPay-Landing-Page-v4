@@ -1,5 +1,6 @@
 import svgPaths from "./svg-vgthwq9zkh";
 import imgImage46201 from "./0f9b6319f150ae57e82bed3a668da1f610fc3ac3.png";
+import { HeroScrollPrompt } from "../../app/components/HeroScrollPrompt";
 
 function Group() {
   return (
@@ -175,6 +176,9 @@ function Frame8() {
     <div className="content-stretch flex flex-col gap-[38px] items-start relative shrink-0 w-full">
       <Frame />
       <Frame2 />
+      <div className="flex w-[600px] justify-start">
+        <HeroScrollPrompt />
+      </div>
     </div>
   );
 }

@@ -120,6 +120,7 @@ const NAV_ITEMS: NavItem[] = [
       { title: 'PARTNER RESOURCE CENTER',  items: [
         { label: 'Documentation', href: '/resources/documentation' },
         { label: 'API reference',           href: '/resources/api-reference' },
+        { label: 'Brand guidelines',        href: '/brand-guidelines' },
         { label: 'FAQ',                     href: '/resources/faq' },
       ]},
     ],
